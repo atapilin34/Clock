@@ -278,7 +278,7 @@ body.play ul li.active .down .shadow {
   margin-top: 35%;
   margin-left:45%;
   width: 150px;
-  height: 40px;
+  padding: 10px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, .7);
   border-radius:6px;
   border:none;
